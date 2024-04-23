@@ -1,3 +1,8 @@
+export const metadata = {
+  title: {
+    absolute: 'html'
+  }
+}
 
 const HtmlPage = () => {
   return (
